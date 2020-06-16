@@ -1,11 +1,12 @@
-# RAFAEL FAUSTINI
+<h1 align="center"> RAFAEL FAUSTINI</h1>
 
 ```
-Brazilian and italian, single, 21 years old.
-contact@rafaelfaustini.com.br
-Niterói – RJ.
+  Brazilian and italian, single, 21 years old.
+        contact@rafaelfaustini.com.br
+              Niterói – RJ.
 ```
-# SOFTWARE DEVELOPER
+
+## SOFTWARE DEVELOPER
 
 <details><summary><b>EDUCATIONAL BACKGROUND</b></summary>
 
