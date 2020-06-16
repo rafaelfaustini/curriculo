@@ -16,7 +16,9 @@ semester.
 **LANGUAGE**
 
 Portuguese - Native
+
 English - Proficient User - Understanding / Reading/ Writing Level: C
+
 Italian - Basic User - Understanding / Reading / Writing Level: A
 
 
